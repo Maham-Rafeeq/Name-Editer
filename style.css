@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    width: 60%;
+    height: 500px;
+    background-color: #ca5cdd;
+    border-radius: 10px;
+    text-align: center;
+    margin: 50px auto;
+    padding: 20px;
+}
+.box img{
+    width: 70%;
+    height: 300px;
+}
+.box h1{
+    font-size: 3rem;
+    padding: 10px;
+    text-transform: capitalize;
+    color: white;
+}
+.box button{
+    padding: 20px 40px;
+background-color: #da8ee7;
+border: 2px solid purple;
+font-size: 18px;
+font-weight: bold;
+margin: 20px;
+color: white;
+}
