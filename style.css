@@ -16,6 +16,7 @@
 .box img{
     width: 70%;
     height: 300px;
+    object-fit:cover;
 }
 .box h1{
     font-size: 3rem;
@@ -41,4 +42,5 @@ color: white;
     
     }
 }
+
 
